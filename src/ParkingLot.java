@@ -3,7 +3,6 @@ import java.util.HashMap;
 public class ParkingLot {
     private final int MaxParkingNumber = 10;
 
-
     private String name;
     public int currentLocation;
     HashMap<CarLocation, Car> record = new HashMap<CarLocation, Car>();
