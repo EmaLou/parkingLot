@@ -1,7 +1,7 @@
 public class CarLocation {
     private final int number;
 
-    public CarLocation(int number) {
+    public CarLocation( int number) {
         this.number = number;
     }
 
